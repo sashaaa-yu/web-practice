@@ -1,0 +1,39 @@
+/* p.p1{
+    color:wheat;
+}
+.p2{
+    color:tan;
+}
+.p3{
+    color:rgb(172, 139, 97);
+}
+.p3.plus{
+    border:2px solid orange;
+}
+#content{
+    background-color:rgb(228, 232, 236);
+    padding:10px;
+} */
+div{
+    color:coral;
+    border:1px solid slategray;
+    margin:20px;
+}
+div p{
+    color:wheat;
+    border:1px dashed black;
+}
+a[href="https://en.wikipedia.org/wiki/Mayday_(Taiwanese_band)"]{
+    color:snow;
+    background-color:tan;
+    text-decoration:underline;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+a[href="https://www.instagram.com/imayday55555/?hl=zh-tw"]{
+    color:snow;
+    background-color:wheat;
+    text-decoration:none;
+    font-weight:italic;
+    text-transform:capitalize;
+}
